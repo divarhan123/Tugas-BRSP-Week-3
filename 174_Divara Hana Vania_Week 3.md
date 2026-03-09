@@ -26,11 +26,15 @@ Visualisasi UMAP dan distribusi nilai ekspresi gen pada pasien kontrol dan pende
 
 Analisis Lanjutan Menggunakan ShinyGO versi 0.85.1
 
-![This is an alt text.](Barplot.png)
+![This is an alt text.](Bar_Plot.png)
 
 * KEGG Pathway
 
-![This is an alt text.](KEGG_Pathway.png)
+![This is an alt text.](Cell_adhesion_molecules.png)
+![This is an alt text.](ECM-receptor_interaction.png)
+![This is an alt text.](Focal_adhesion.png)
+![This is an alt text.](Leukocyte_transendothelial_migration.png)
+![This is an alt text.](PI3K-Akt_signaling_pathway.png)
 
 **Kesimpulan**  
 Berdasarkan hasil analisis diketahui bahwa gen NEK2, TTK, TOP2A, KIF15, C10orf3, BUB1, FXR1, dan DKFZp667G2110 dapat digunakan sebagai biomarker bagi deteksi penyakit adenokarsinoma paru. 
