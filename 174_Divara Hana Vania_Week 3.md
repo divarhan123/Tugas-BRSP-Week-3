@@ -17,18 +17,19 @@ Beberapa gen mengalami *upregulation* dan *downregulation* yang disajikan dalam 
 ![This is an alt text.](Volcano_Plot.png)
 
 Terdapat 50 *Differentially Expressed Genes* (DEGs) teratas yang ditampilkan dalam bentuk heatmap sebagai berikut.  
-![][image2]  
-Visualisasi UMAP dan distribusi nilai ekspresi gen pada pasien kontrol dan penderita kanker adalah sebagai berikut.  
-![][image3]
+![This is an alt text.](Heatmap.png)
 
-![][image4]  
+Visualisasi UMAP dan distribusi nilai ekspresi gen pada pasien kontrol dan penderita kanker adalah sebagai berikut.  
+![This is an alt text.](UMAP.png)
+
+![This is an alt text.](Distribution_Plot.png)  
 Analisis Lanjutan Menggunakan ShinyGO versi 0.85.1
 
-![][image5]
+![This is an alt text.](Barplot.png)
 
 * KEGG Pathway
 
-![][image6]
+![This is an alt text.](KEGG_Pathway.png)
 
 **Kesimpulan**  
 Berdasarkan hasil analisis diketahui bahwa gen NEK2, TTK, TOP2A, KIF15, C10orf3, BUB1, FXR1, dan DKFZp667G2110 dapat digunakan sebagai biomarker bagi deteksi penyakit adenokarsinoma paru. 
