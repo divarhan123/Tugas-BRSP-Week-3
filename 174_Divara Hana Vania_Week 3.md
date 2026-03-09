@@ -14,7 +14,7 @@ Tujuan dari penelitian ini adalah untuk mengidentifikasi gen-gen yang ekspresiny
 
 **Hasil dan Interpretasi**  
 Beberapa gen mengalami *upregulation* dan *downregulation* yang disajikan dalam volcano plot sebagai berikut.  
-![][image1]
+![This is an alt text.](/main/Volcano_Plot.png)
 
 Terdapat 50 *Differentially Expressed Genes* (DEGs) teratas yang ditampilkan dalam bentuk heatmap sebagai berikut.  
 ![][image2]  
