@@ -6,7 +6,6 @@ Kanker paru merupakan penyebab utama kematian akibat kanker di seluruh dunia dan
 Tujuan dari penelitian ini adalah untuk mengidentifikasi gen-gen yang ekspresinya berubah akibat paparan rokok di jaringan paru, serta menentukan gen dalam *signature* tersebut yang berperan dalam perkembangan adenokarsinoma paru dan luaran klinisnya. Untuk mencapai tujuan ini, dilakukan analisis ekspresi gen menggunakan *microarray* pada sampel jaringan tumor dan non-tumor dari perokok aktif, mantan perokok, dan individu yang tidak pernah merokok, diikuti dengan seleksi gen menggunakan kriteria statistik ketat, analisis fungsional, serta validasi pada sampel independen. Pendekatan ini diharapkan dapat menganalisis perbedaan ekspresi gen antara jaringan adenokarsinoma paru dan jaringan paru normal untuk mencari kandidat biomarker.
 
 **Metode**
-
 * Platform: Microarray Affymetrix HG-U133A (GPL96).  
 * Anotasi Gen: Mapping dari ID Probe Affymetrix ke nama gen (Gene Symbol) menggunakan database hgu133a.db.  
 * Statistik: Penerapan koreksi *False Discovery Rate* (FDR) dengan p-value \< 0.01.  
@@ -22,7 +21,9 @@ Terdapat 50 *Differentially Expressed Genes* (DEGs) teratas yang ditampilkan dal
 Visualisasi UMAP dan distribusi nilai ekspresi gen pada pasien kontrol dan penderita kanker adalah sebagai berikut.  
 ![This is an alt text.](UMAP.png)
 
-![This is an alt text.](Distribution_Plot.png)  
+![This is an alt text.](Distribution_Plot.png)
+
+
 Analisis Lanjutan Menggunakan ShinyGO versi 0.85.1
 
 ![This is an alt text.](Barplot.png)
